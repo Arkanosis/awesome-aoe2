@@ -4,10 +4,18 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 
 # Contents
 - [Websites](#websites)
+  - [Tools](#tools)
+  - [Guides](#guides)
+  - [Wikis](#wikis)
+  - [Communities](#communities)
 - [YouTube channels](#youtube-channels)
+  - [Theory](#theory)
+  - [Casting](#casting)
 - [Twitch channels](#twitch-channels)
 
 # Websites
+
+## Tools
 
 * [aoe2.net](https://aoe2.net/): player profiles and ELOs
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
@@ -16,16 +24,28 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [aoe2insights](https://www.aoe2insights.com/)
 * [aoestats](https://aoestats.io/)
 * [Rating charts](https://ratings.aoe2.se/)
-* [aoecompanion](https://aoecompanion.com/)
 * [aoe2.club](https://aoe2.club/)
+
+## Guides
+* [aoecompanion](https://aoecompanion.com/)
 * [aoe2.guide](https://aoe2.guide/)
-* [r/aoe2/](https://www.reddit.com/r/aoe2/)
-* [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal)
+
+## Wikis
 * [liquipedia](https://liquipedia.net/ageofempires/Main_Page)
+* [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal)
+
+## Communities
+
+* [r/aoe2/](https://www.reddit.com/r/aoe2/)
 * [AoEZone](https://www.aoezone.net/)
 * [Siege Engineers](https://aoe2.se/)
 
 # YouTube channels
+
+## Theory
+
 * [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
+
+## Casting
 
 # Twitch channels
