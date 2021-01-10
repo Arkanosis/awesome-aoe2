@@ -12,6 +12,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
   - [Theory](#theory)
   - [Casting](#casting)
 - [Twitch channels](#twitch-channels)
+- [Smartphone apps](#smartphone-apps)
 - [Similar games](#similar-games)
 
 # Websites
@@ -28,14 +29,16 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [aoe2.club](https://aoe2.club/)
 * [Captains Mode](https://aoe2cm.net/)
 * [aoe2map](https://aoe2map.net/)
+* [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
+* [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 
 ## Guides
 * [aoecompanion](https://aoecompanion.com/)
 * [aoe2.guide](https://aoe2.guide/)
 
 ## Wikis
-* [liquipedia](https://liquipedia.net/ageofempires/Main_Page)
-* [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal)
+* [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
+* [liquipedia](https://liquipedia.net/ageofempires/Main_Page): everything about the scene
 
 ## Communities
 
@@ -52,6 +55,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 ## Casting
 
 # Twitch channels
+
+# Smartphone apps
+* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
 
 # Similar games
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
