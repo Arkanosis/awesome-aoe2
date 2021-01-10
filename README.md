@@ -31,10 +31,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [aoe2map](https://aoe2map.net/)
 * [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
+* [AoE Nexus](https://aoenexus.com/)
 
 ## Guides
 * [aoecompanion](https://aoecompanion.com/)
 * [aoe2.guide](https://aoe2.guide/)
+* [Build order guide](https://buildorderguide.com)
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
