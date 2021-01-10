@@ -12,6 +12,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
   - [Theory](#theory)
   - [Casting](#casting)
 - [Twitch channels](#twitch-channels)
+- [Similar games](#similar-games)
 
 # Websites
 
@@ -25,6 +26,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [aoestats](https://aoestats.io/)
 * [Rating charts](https://ratings.aoe2.se/)
 * [aoe2.club](https://aoe2.club/)
+* [Captains Mode](https://aoe2cm.net/)
+* [aoe2map](https://aoe2map.net/)
 
 ## Guides
 * [aoecompanion](https://aoecompanion.com/)
@@ -49,3 +52,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 ## Casting
 
 # Twitch channels
+
+# Similar games
+* [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
+* [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
