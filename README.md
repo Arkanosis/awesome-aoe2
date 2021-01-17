@@ -23,7 +23,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
-* [aoe2insights](https://www.aoe2insights.com/)
+* [aoe2insights](https://www.aoe2insights.com/): Match analysis and player profiles
 * [aoestats](https://aoestats.io/)
 * [Rating charts](https://ratings.aoe2.se/)
 * [aoe2.club](https://aoe2.club/)
