@@ -38,6 +38,7 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
 * [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
+* [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
@@ -63,7 +64,7 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
-* [AoE II Companion](https://aoecompanion.com/): track your games from aoe2.net on Android and iOS
+* [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
 
 # Similar games
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
