@@ -2,6 +2,8 @@
 
 An [awesome list](https://github.com/sindresorhus/awesome) of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
+You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
+
 # Contents
 - [Websites](#websites)
   - [Tools](#tools)
