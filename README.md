@@ -19,14 +19,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 
 ## Tools
 
-* [aoe2.net](https://aoe2.net/): player profiles and ELOs
+* [aoe2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
-* [aoe2insights](https://www.aoe2insights.com/): Match analysis and player profiles
-* [aoestats](https://aoestats.io/)
-* [Rating charts](https://ratings.aoe2.se/)
-* [aoe2.club](https://aoe2.club/)
+* [aoe2insights](https://www.aoe2insights.com/): match analysis and player profiles
+* [aoestats](https://aoestats.io/): civilizations win rate statistics
+* [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
+* [aoe2.club](https://aoe2.club/): leaderboard, including by country
 * [Captains Mode](https://aoe2cm.net/)
 * [aoe2map](https://aoe2map.net/)
 * [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
@@ -34,9 +34,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [AoE Nexus](https://aoenexus.com/)
 
 ## Guides
-* [aoecompanion](https://aoecompanion.com/)
-* [aoe2.guide](https://aoe2.guide/)
-* [Build order guide](https://buildorderguide.com)
+* [Build order guide](https://buildorderguide.com): build orders and uptime calculator
+* [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
@@ -55,11 +54,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 * [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
 
 ## Casting
+* [Hera](https://www.youtube.com/channel/UCeqc9aYVAZcRQq9Ey0x26AQ): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
+* [T90](https://www.youtube.com/channel/UCZUT79WUUpZlZ-XMF7l4CFg): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
 
 # Twitch channels
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
+* [AoE II Companion](https://aoecompanion.com/): track your games from aoe2.net on Android and iOS
 
 # Similar games
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
