@@ -39,6 +39,7 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
 * [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
 * [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
+* [Build Order Reference](https://buildorderreference.com/): Cicero's build orders
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
@@ -61,6 +62,9 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [T90](https://www.youtube.com/channel/UCZUT79WUUpZlZ-XMF7l4CFg): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
 
 # Twitch channels
+
+# Mods
+* [Interactive Build Order Guide](https://www.ageofempires.com/mods/details/2359/)
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
