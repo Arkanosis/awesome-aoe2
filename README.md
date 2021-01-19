@@ -10,11 +10,13 @@ You can contribute to this list by opening a [pull request](https://github.com/A
   - [Guides](#guides)
   - [Wikis](#wikis)
   - [Communities](#communities)
+- [Programs](#programs)
+- [Mods](#mods)
+- [Smartphone apps](#smartphone-apps)
 - [YouTube channels](#youtube-channels)
   - [Theory](#theory)
   - [Casting](#casting)
 - [Twitch channels](#twitch-channels)
-- [Smartphone apps](#smartphone-apps)
 - [Similar games](#similar-games)
 
 # Websites
@@ -56,6 +58,13 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 
+# Mods
+* [Interactive Build Order Guide](https://www.ageofempires.com/mods/details/2359/)
+
+# Smartphone apps
+* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
+* [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
+
 # YouTube channels
 
 ## Theory
@@ -67,13 +76,6 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [T90](https://www.youtube.com/channel/UCZUT79WUUpZlZ-XMF7l4CFg): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
 
 # Twitch channels
-
-# Mods
-* [Interactive Build Order Guide](https://www.ageofempires.com/mods/details/2359/)
-
-# Smartphone apps
-* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
-* [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
 
 # Similar games
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
