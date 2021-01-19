@@ -51,6 +51,11 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [AoEZone](https://www.aoezone.net/)
 * [Siege Engineers](https://aoe2.se/)
 
+# Programs
+
+* [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
+* [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
+
 # YouTube channels
 
 ## Theory
