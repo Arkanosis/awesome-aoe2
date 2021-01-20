@@ -36,6 +36,9 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 * [AoE Nexus](https://aoenexus.com/)
+* [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
+* [Unit comparison](https://aoe2-de-tools.herokuapp.com/unit-comparison.html): unit characteristics comparison and fight outcome calculator
+* [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
