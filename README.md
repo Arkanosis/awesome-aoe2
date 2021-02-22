@@ -4,6 +4,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) of resources for the 
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
+As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
+
 # Contents
 - [Websites](#websites)
   - [Tools](#tools)
