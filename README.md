@@ -37,7 +37,10 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 * [AoE Nexus](https://aoenexus.com/)
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
+* [Unit Production Calculator](https://grishrl.github.io/)
+* [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
 * [Unit comparison](https://aoe2-de-tools.herokuapp.com/unit-comparison.html): unit characteristics comparison and fight outcome calculator
+* [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/)
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 
