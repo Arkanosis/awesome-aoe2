@@ -12,6 +12,7 @@ As an alternative / complement to this list, you might want to have a look at th
   - [Guides](#guides)
   - [Wikis](#wikis)
   - [Communities](#communities)
+  - [Statistics](#statistics)
 - [Programs](#programs)
 - [Mods](#mods)
 - [Smartphone apps](#smartphone-apps)
@@ -61,6 +62,10 @@ As an alternative / complement to this list, you might want to have a look at th
 * [r/aoe2/](https://www.reddit.com/r/aoe2/)
 * [AoEZone](https://www.aoezone.net/)
 * [Siege Engineers](https://aoe2.se/)
+
+## Statistics
+
+* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs/report.html) ([source code](https://github.com/gowerc/aoecps))
 
 # Programs
 
