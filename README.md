@@ -12,6 +12,7 @@ As an alternative / complement to this list, you might want to have a look at th
   - [Guides](#guides)
   - [Wikis](#wikis)
   - [Communities](#communities)
+  - [Blogs](#blogs)
   - [Statistics](#statistics)
 - [Programs](#programs)
 - [Mods](#mods)
@@ -63,6 +64,10 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoEZone](https://www.aoezone.net/)
 * [Siege Engineers](https://aoe2.se/)
 
+## Blogs
+
+* [Age of Notes](https://ageofnotes.com/)
+
 ## Statistics
 
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs/report.html) ([source code](https://github.com/gowerc/aoecps))
@@ -86,6 +91,7 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Theory
 
 * [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
+* [HumzaCrumza](https://www.youtube.com/channel/UCHgjuvs1eqjdS0pyxMh00Sw): non-meta build orders
 
 ## Casting
 * [Hera](https://www.youtube.com/channel/UCeqc9aYVAZcRQq9Ey0x26AQ): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
