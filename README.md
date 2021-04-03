@@ -48,6 +48,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Age of Analyticz](https://ageofanalyticz.com): win and pick rate of civilizations by ELO range and / or map
+* [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): select ongoing match closest to a random rating between two values
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
