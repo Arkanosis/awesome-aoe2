@@ -44,12 +44,14 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Unit Production Calculator](https://grishrl.github.io/)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
 * [Unit comparison](https://aoe2-de-tools.herokuapp.com/unit-comparison.html): unit characteristics comparison and fight outcome calculator
-* [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/)
+* [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
+* [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Age of Analyticz](https://ageofanalyticz.com): win and pick rate of civilizations by ELO range and / or map
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): select ongoing match closest to a random rating between two values
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
+* [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
