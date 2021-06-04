@@ -72,7 +72,8 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Blogs
 
-* [Age of Notes](https://ageofnotes.com/)
+* [Age of Notes](https://ageofnotes.com/) ([RSS](https://ageofnotes.com/feed/))
+* [AoE2 News](https://aoe2news.substack.com/) ([RSS](https://aoe2news.substack.com/feed))
 
 ## Statistics
 
