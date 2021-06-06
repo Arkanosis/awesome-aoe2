@@ -53,6 +53,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
+* [AoE2: DE Statistics](http://www.aoeiide.com/)
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
