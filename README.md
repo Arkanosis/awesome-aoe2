@@ -60,6 +60,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
 * [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
 * [Build Order Reference](https://buildorderreference.com/): Cicero's build orders
+* [AoE Builds](https://www.aoebuilds.com/): build orders and blog
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
