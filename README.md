@@ -48,7 +48,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
-* [Age of Analyticz](https://ageofanalyticz.com): win and pick rate of civilizations by ELO range and / or map
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
