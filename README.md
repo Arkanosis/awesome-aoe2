@@ -69,6 +69,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [r/aoe2/](https://www.reddit.com/r/aoe2/)
 * [AoEZone](https://www.aoezone.net/)
+* [Official AoE forums](https://forums.ageofempires.com/)
 * [Siege Engineers](https://aoe2.se/)
 
 ## Blogs
@@ -87,6 +88,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager): manage Age of Empires 2 Definitive Edition replays
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher): downgrade AoE2 to be able to watch recorded games created with previous patches
+* [SenseiDE](https://github.com/gregstein/SenseiDE): unleash the ultimate performance from Age of Empires 2 Definitive Edition
 
 # Mods
 * [Interactive Build Order Guide](https://www.ageofempires.com/mods/details/2359/)
