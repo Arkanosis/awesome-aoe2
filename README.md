@@ -96,6 +96,7 @@ As an alternative / complement to this list, you might want to have a look at th
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
 * [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
+* [AoE Millionaire Quiz](https://play.google.com/store/apps/details?id=com.milquiz.age): strenghten your game knowledge and compete with other players across the world
 
 # YouTube channels
 
