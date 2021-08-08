@@ -17,6 +17,7 @@ As an alternative / complement to this list, you might want to have a look at th
 - [Programs](#programs)
 - [Mods](#mods)
 - [Smartphone apps](#smartphone-apps)
+- [Streaming tools](#streaming-tools)
 - [YouTube channels](#youtube-channels)
   - [Theory](#theory)
   - [Casting](#casting)
@@ -97,6 +98,10 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
 * [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
 * [AoE Millionaire Quiz](https://play.google.com/store/apps/details?id=com.milquiz.age): strenghten your game knowledge and compete with other players across the world
+
+# Streaming tools
+
+* [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 
 # YouTube channels
 
