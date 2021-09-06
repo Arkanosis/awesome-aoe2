@@ -109,6 +109,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
 * [Empirant_AOE](https://www.youtube.com/channel/UCPIOlqOn_xGcInraGgw8bYA): more maths of AoE2
+* [T-West](https://www.youtube.com/c/TWestYT/): even more maths and mechanic analysis
 * [HumzaCrumza](https://www.youtube.com/channel/UCHgjuvs1eqjdS0pyxMh00Sw): non-meta build orders
 
 ## Casting
