@@ -81,7 +81,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Statistics
 
-* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs/report.html) ([source code](https://github.com/gowerc/aoecps))
+* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
 
 # Programs
 
