@@ -14,6 +14,7 @@ As an alternative / complement to this list, you might want to have a look at th
   - [Communities](#communities)
   - [Blogs](#blogs)
   - [Statistics](#statistics)
+  - [Information](#information)
 - [Programs](#programs)
 - [Mods](#mods)
 - [Smartphone apps](#smartphone-apps)
@@ -82,6 +83,10 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Statistics
 
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
+
+## Information
+
+* [Age of Empires II Names, Abbreviations and Acronyms](https://docs.google.com/spreadsheets/d/1EX_2Cmem6fjz4_x2WWR0-g6Ljt6CKNewO_xk9_2EJLg)
 
 # Programs
 
