@@ -86,6 +86,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Information
 
+* [AoE2 Glossary](https://www.forgottenempires.net/strategy/aoe2-glossary)
 * [Age of Empires II Names, Abbreviations and Acronyms](https://docs.google.com/spreadsheets/d/1EX_2Cmem6fjz4_x2WWR0-g6Ljt6CKNewO_xk9_2EJLg)
 
 # Programs
