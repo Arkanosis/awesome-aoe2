@@ -56,6 +56,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2: DE Statistics](http://www.aoeiide.com/)
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 * [AoE2ScenarioParser](https://github.com/KSneijders/AoE2ScenarioParser#aoe2scenarioparser): A Python3 library to help you edit scenario files in Age of Empires II: Definitive Edition.
+* [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
