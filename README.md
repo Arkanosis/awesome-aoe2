@@ -22,6 +22,7 @@ As an alternative / complement to this list, you might want to have a look at th
 - [YouTube channels](#youtube-channels)
   - [Theory](#theory)
   - [Casting](#casting)
+  - [Humor](#humor)
 - [Twitch channels](#twitch-channels)
 - [Similar games](#similar-games)
 
@@ -127,6 +128,10 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Casting
 * [Hera](https://www.youtube.com/channel/UCeqc9aYVAZcRQq9Ey0x26AQ): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
 * [T90](https://www.youtube.com/channel/UCZUT79WUUpZlZ-XMF7l4CFg): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
+
+## Humor
+* [Bearly Learning](https://www.youtube.com/channel/UCURZLWSQaD5gb3GRWRvVAcQ): Age Of Empires Toons
+* [Parsa Animations](https://www.youtube.com/c/Parsaw): Age of Empires Logic…
 
 # Twitch channels
 
