@@ -36,6 +36,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [aoe2insights](https://www.aoe2insights.com/): match analysis and player profiles
 * [aoestats](https://aoestats.io/): civilizations win rate statistics
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
+* [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
 * [aoe2.club](https://aoe2.club/): leaderboard, including by country
 * [Captains Mode](https://aoe2cm.net/)
 * [aoe2map](https://aoe2map.net/)
@@ -57,6 +58,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 * [AoE2ScenarioParser](https://github.com/KSneijders/AoE2ScenarioParser#aoe2scenarioparser): A Python3 library to help you edit scenario files in Age of Empires II: Definitive Edition.
 * [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
+* [Civpicker](https://aoe2.arkanosis.net/civpicker): tell what you want to play, get the civs
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
