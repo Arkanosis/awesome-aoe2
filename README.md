@@ -60,6 +60,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2ScenarioParser](https://github.com/KSneijders/AoE2ScenarioParser#aoe2scenarioparser): A Python3 library to help you edit scenario files in Age of Empires II: Definitive Edition.
 * [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
 * [Civpicker](https://aoe2.arkanosis.net/civpicker): tell what you want to play, get the civs
+* [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
