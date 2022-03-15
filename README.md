@@ -32,6 +32,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [aoe2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
+* [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database on Android
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
 * [aoe2insights](https://www.aoe2insights.com/): match analysis and player profiles
