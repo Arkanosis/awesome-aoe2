@@ -49,7 +49,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Unit Production Calculator](https://grishrl.github.io/)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
 * [Unit comparison](https://aoe2-de-tools.herokuapp.com/unit-comparison.html): unit characteristics comparison and fight outcome calculator
-* [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters
+* [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
