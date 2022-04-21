@@ -8,6 +8,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Contents
 - [Websites](#websites)
+  - [Profiles](#profiles)
   - [Tools](#tools)
   - [Guides](#guides)
   - [Wikis](#wikis)
@@ -28,14 +29,20 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Websites
 
+## Profiles
+
+* [AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
+* [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
+* [AoE Nexus](https://aoenexus.com/)
+* [AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS
+* [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
+
 ## Tools
 
-* [aoe2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
-* [aoe2insights](https://www.aoe2insights.com/): match analysis and player profiles
 * [aoestats](https://aoestats.io/): civilizations win rate statistics
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
@@ -44,7 +51,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [aoe2map](https://aoe2map.net/)
 * [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
-* [AoE Nexus](https://aoenexus.com/)
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
 * [Unit Production Calculator](https://grishrl.github.io/)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
@@ -123,7 +129,6 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [Overlay AoE II - DE](https://github.com/LucasJappert/overlay-aoe-de/blob/main/README.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
-
 
 # YouTube channels
 
