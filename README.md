@@ -10,11 +10,11 @@ As an alternative / complement to this list, you might want to have a look at th
 - [Websites](#websites)
   - [Profiles](#profiles)
   - [Tools](#tools)
+  - [Statistics](#statistics)
   - [Guides](#guides)
   - [Wikis](#wikis)
   - [Communities](#communities)
   - [Blogs](#blogs)
-  - [Statistics](#statistics)
   - [Information](#information)
 - [Programs](#programs)
 - [Mods](#mods)
@@ -43,8 +43,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
-* [aoestats](https://aoestats.io/): civilizations win rate statistics
-* [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
 * [aoe2.club](https://aoe2.club/): leaderboard, including by country
 * [Captains Mode](https://aoe2cm.net/)
@@ -63,14 +61,22 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
-* [AoE2: DE Statistics](http://www.aoeiide.com/)
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 * [AoE2ScenarioParser](https://github.com/KSneijders/AoE2ScenarioParser#aoe2scenarioparser): A Python3 library to help you edit scenario files in Age of Empires II: Definitive Edition.
-* [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
 * [AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
+
+## Statistics
+
+* [AOE2 Stats Dashboard](https://www.aoedash.net): play rate, win rate per civ, per map…
+* [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
+* [aoestats](https://aoestats.io/): civilizations win rate statistics
+* [AoE2: DE Statistics](http://www.aoeiide.com/)
+* [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
+* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
+* [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
@@ -95,11 +101,6 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [Age of Notes](https://ageofnotes.com/) ([RSS](https://ageofnotes.com/feed/))
 * [AoE2 News](https://aoe2news.substack.com/) ([RSS](https://aoe2news.substack.com/feed))
-
-## Statistics
-
-* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
-* [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
 
 ## Information
 
