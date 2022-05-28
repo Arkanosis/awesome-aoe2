@@ -77,6 +77,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
 * [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
+* [agestats.net](https://agestats.net/): civilizations win rate statistics and pairwise heatmap
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
