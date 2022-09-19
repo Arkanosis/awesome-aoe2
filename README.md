@@ -67,6 +67,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
 * [AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
+* [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
 
 ## Statistics
 
