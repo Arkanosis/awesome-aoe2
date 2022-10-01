@@ -148,7 +148,8 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
 * [Empirant_AOE](https://www.youtube.com/channel/UCPIOlqOn_xGcInraGgw8bYA): more maths of AoE2
-* [T-West](https://www.youtube.com/c/TWestYT/): even more maths and mechanic analysis
+* [T-West](https://www.youtube.com/c/TWestYT/): even more maths and mechanics analysis
+* [Hjörleif](https://www.youtube.com/c/Hjoerleif): more game mechanics
 * [HumzaCrumza](https://www.youtube.com/channel/UCHgjuvs1eqjdS0pyxMh00Sw): non-meta build orders
 
 ## Casting
@@ -158,6 +159,10 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Humor
 * [Bearly Learning](https://www.youtube.com/channel/UCURZLWSQaD5gb3GRWRvVAcQ): Age Of Empires Toons
 * [Parsa Animations](https://www.youtube.com/c/Parsaw): Age of Empires Logic…
+
+## Interviews
+* [Kings & Plebeians](https://www.youtube.com/c/MasmorraAoE): players, developers, content creators…
+* [Bored With Nelly](https://www.youtube.com/playlist?list=PLQqHjgiN9XDru9vD9DIghS1MRqEcJk69d): developers, players…
 
 # Twitch channels
 
