@@ -31,10 +31,11 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Profiles
 
-* [AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
+* ~~[AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs~~ (temporarily offline)
 * [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
-* [AoE Nexus](https://aoenexus.com/)
-* [AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS
+* ~~[AoE Nexus](https://aoenexus.com/): player profiles and ELOs~~ (temporarily offline, used aoe2.net for data)
+* [AoeStats](https://aoestats.net/): player profiles and ELOs
+* ~~[AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS~~ (temporarily broken, used aoe2.net for data)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
 
 ## Tools
