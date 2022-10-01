@@ -6,6 +6,9 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 
 As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
 
+> **Warning**
+> **Some sites are temporarily broken**: many services below were relying on aoe2.net, which is down for several weeks now; as such, these services are broken too
+
 # Contents
 - [Websites](#websites)
   - [Profiles](#profiles)
@@ -42,34 +45,32 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Tools
 
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
+* [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [aoe2recs](https://aoe2recs.com/): recorded games
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
-* [aoe2.club](https://aoe2.club/): leaderboard, including by country
 * [Captains Mode](https://aoe2cm.net/)
 * [aoe2map](https://aoe2map.net/)
-* [Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
 * [Unit Production Calculator](https://grishrl.github.io/)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
-* [Unit comparison](https://aoe2-de-tools.herokuapp.com/unit-comparison.html): unit characteristics comparison and fight outcome calculator
 * [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
-* [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
-* [AoE2ScenarioParser](https://github.com/KSneijders/AoE2ScenarioParser#aoe2scenarioparser): A Python3 library to help you edit scenario files in Age of Empires II: Definitive Edition.
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
-* [AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
 * [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+* ~~[aoe2.club](https://aoe2.club/): leaderboard, including by country~~ (broken as of 2022-10-01, might have been relying on aoe2.net, to be checked again)
+* ~~[Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments~~ (broken as of 2022-10-01, to be checked again)
+* ~~[AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool~~ (broken as of 2022-10-01, to be checked again)
 
 ## Statistics
 
@@ -132,15 +133,15 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Streaming tools
 
-* [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
-* [Overlay AoE II - DE](https://github.com/LucasJappert/overlay-aoe-de/blob/main/README.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
-* [Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text
+* ~~[AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page~~ (temporarily broken, used aoe2.net for data)
+* ~~[Overlay AoE II - DE](https://github.com/LucasJappert/overlay-aoe-de/blob/main/README.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page~~ (temporarily broken, used aoe2.net for data)
+* ~~[Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text~~ (temporarily broken, used aoe2.net for data)
 
 # Programming tools
 * [mgz](https://github.com/happyleavesaoc/aoc-mgz): Age of Empires II recorded game parsing and summarization in Python 3
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs): Rust libraries for reading / writing various Age of Empires I/II files
 * [genieutils](https://github.com/sandsmark/genieutils): C++ library for reading and writing the file formats used in the Genie engine
-* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python library for editing aoe2scenario files
+* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): A Python3 library to edit scenario files in Age of Empires II: Definitive Edition
 
 # YouTube channels
 
