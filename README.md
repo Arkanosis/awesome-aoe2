@@ -20,6 +20,7 @@ As an alternative / complement to this list, you might want to have a look at th
 - [Mods](#mods)
 - [Smartphone apps](#smartphone-apps)
 - [Streaming tools](#streaming-tools)
+- [Programming tools](#programming-tools)
 - [YouTube channels](#youtube-channels)
   - [Theory](#theory)
   - [Casting](#casting)
@@ -31,12 +32,12 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Profiles
 
-* ~~[AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs~~ (temporarily offline)
 * [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
-* ~~[AoE Nexus](https://aoenexus.com/): player profiles and ELOs~~ (temporarily offline, used aoe2.net for data)
 * [AoeStats](https://aoestats.net/): player profiles and ELOs
-* ~~[AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS~~ (temporarily broken, used aoe2.net for data)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
+* ~~[AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs~~ (temporarily offline)
+* ~~[AoE Nexus](https://aoenexus.com/): player profiles and ELOs~~ (temporarily offline, used aoe2.net for data)
+* ~~[AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS~~ (temporarily broken, used aoe2.net for data)
 
 ## Tools
 
@@ -134,6 +135,12 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [Overlay AoE II - DE](https://github.com/LucasJappert/overlay-aoe-de/blob/main/README.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text
+
+# Programming tools
+* [mgz](https://github.com/happyleavesaoc/aoc-mgz): Age of Empires II recorded game parsing and summarization in Python 3
+* [genie-rs](https://github.com/SiegeEngineers/genie-rs): Rust libraries for reading / writing various Age of Empires I/II files
+* [genieutils](https://github.com/sandsmark/genieutils): C++ library for reading and writing the file formats used in the Genie engine
+* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python library for editing aoe2scenario files
 
 # YouTube channels
 
