@@ -68,6 +68,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
 * [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+* [AoE2 Random Civ Draft](https://aoe2-random-civ-draft.app/): pick a random civ in a predefined pool, with user-defined criterias
 * ~~[aoe2.club](https://aoe2.club/): leaderboard, including by country~~ (broken as of 2022-10-01, might have been relying on aoe2.net, to be checked again)
 * ~~[Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments~~ (broken as of 2022-10-01, to be checked again)
 * ~~[AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool~~ (broken as of 2022-10-01, to be checked again)
