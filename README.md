@@ -12,6 +12,8 @@ As an alternative / complement to this list, you might want to have a look at th
 # Contents
 - [Websites](#websites)
   - [Profiles](#profiles)
+  - [Documentation](#documentation)
+  - [Civilization pickers](#civilization-pickers)
   - [Tools](#tools)
   - [Statistics](#statistics)
   - [Guides](#guides)
@@ -42,36 +44,42 @@ As an alternative / complement to this list, you might want to have a look at th
 * ~~[AoE Nexus](https://aoenexus.com/): player profiles and ELOs~~ (temporarily offline, used aoe2.net for data)
 * ~~[AoE II Companion](https://app.aoe2companion.com/): track your games from aoe2.net on Android and iOS~~ (temporarily broken, used aoe2.net for data)
 
-## Tools
+## Documentation
 
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
+* [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
+* [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
+* [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+
+## Civilization pickers
+
+* [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
+* [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
+* [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
+* [AoE2 Random Civ Draft](https://aoe2-random-civ-draft.app/): pick a random civ in a predefined pool, with user-defined criterias
+* ~~[AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool~~ (broken as of 2022-10-01, to be checked again)
+
+## Tools
+
 * [aoe2recs](https://aoe2recs.com/): recorded games
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
-* [Captains Mode](https://aoe2cm.net/)
 * [aoe2map](https://aoe2map.net/)
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
 * [Unit Production Calculator](https://grishrl.github.io/)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
-* [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
-* [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
-* [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
-* [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
-* [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
-* [AoE2 Random Civ Draft](https://aoe2-random-civ-draft.app/): pick a random civ in a predefined pool, with user-defined criterias
 * ~~[aoe2.club](https://aoe2.club/): leaderboard, including by country~~ (broken as of 2022-10-01, might have been relying on aoe2.net, to be checked again)
 * ~~[Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments~~ (broken as of 2022-10-01, to be checked again)
-* ~~[AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool~~ (broken as of 2022-10-01, to be checked again)
 
 ## Statistics
 
@@ -124,7 +132,9 @@ As an alternative / complement to this list, you might want to have a look at th
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
 
 # Mods
-* [Interactive Build Order Guide](https://www.ageofempires.com/mods/details/2359/)
+
+* [Mod Directory](https://mods.aoe2.se/)
+* [Interactive Build Order Guide](https://mods.aoe2.se/2359)
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
