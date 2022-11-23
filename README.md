@@ -159,22 +159,23 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Theory
 
-* [Spirit Of The Law](https://www.youtube.com/channel/UChzLZJo-SxuPHz-oYKAIC_g): the maths of AoE2
-* [Empirant_AOE](https://www.youtube.com/channel/UCPIOlqOn_xGcInraGgw8bYA): more maths of AoE2
-* [T-West](https://www.youtube.com/c/TWestYT/): even more maths and mechanics analysis
-* [Hjörleif](https://www.youtube.com/c/Hjoerleif): more game mechanics
-* [HumzaCrumza](https://www.youtube.com/channel/UCHgjuvs1eqjdS0pyxMh00Sw): non-meta build orders
+* [Spirit Of The Law](https://www.youtube.com/@SpiritOfTheLaw): the maths of AoE2
+* [Empirant_AOE](https://www.youtube.com/@empirant_aoe9534): more maths of AoE2
+* [T-West](https://www.youtube.com/@T-West): even more maths and mechanics analysis
+* [Hjörleif](https://www.youtube.com/@Hjoerleif): more game mechanics
+* [HumzaCrumza](https://www.youtube.com/@HumzaCrumza): non-meta build orders
+* [Poop Lord](https://www.youtube.com/@PoopLord): non-meta build orders
 
 ## Casting
-* [Hera](https://www.youtube.com/channel/UCeqc9aYVAZcRQq9Ey0x26AQ): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
-* [T90](https://www.youtube.com/channel/UCZUT79WUUpZlZ-XMF7l4CFg): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
+* [Hera](https://www.youtube.com/@HeraAgeofEmpires2): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
+* [T90](https://www.youtube.com/@T90Official): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
 
 ## Humor
-* [Bearly Learning](https://www.youtube.com/channel/UCURZLWSQaD5gb3GRWRvVAcQ): Age Of Empires Toons
-* [Parsa Animations](https://www.youtube.com/c/Parsaw): Age of Empires Logic…
+* [Bearly Learning](https://www.youtube.com/@bearlylearning1509): Age Of Empires Toons
+* [Parsa Animations](https://www.youtube.com/@Parsaw): Age of Empires Logic…
 
 ## Interviews
-* [Kings & Plebeians](https://www.youtube.com/c/MasmorraAoE): players, developers, content creators…
+* [Kings & Plebeians](https://www.youtube.com/@MasmorraAoE): players, developers, content creators…
 * [Bored With Nelly](https://www.youtube.com/playlist?list=PLQqHjgiN9XDru9vD9DIghS1MRqEcJk69d): developers, players…
 
 # Twitch channels
