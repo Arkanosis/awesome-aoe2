@@ -99,6 +99,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
 * [Build Order Reference](https://buildorderreference.com/): Cicero's build orders
 * [AoE Builds](https://www.aoebuilds.com/): build orders and blog
+* [PerfectTime](https://aoe2.arkanosis.net/pt/): perfect uptime calculator
 * [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
 
 ## Wikis
