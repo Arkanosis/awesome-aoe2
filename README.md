@@ -92,6 +92,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
 * [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
 * [agestats.net](https://agestats.net/): civilizations win rate statistics and pairwise heatmap
+* [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
