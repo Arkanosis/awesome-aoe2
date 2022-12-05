@@ -86,13 +86,15 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [AOE2 Stats Dashboard](https://www.aoedash.net): play rate, win rate per civ, per map…
 * [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
-* [aoestats](https://aoestats.io/): civilizations win rate statistics
-* [AoE2: DE Statistics](http://www.aoeiide.com/)
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
 * [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
 * [agestats.net](https://agestats.net/): civilizations win rate statistics and pairwise heatmap
 * [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
+* [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
+* [AoE Companion](https://aoecompanion.com/stats): civilization statistics
+* [aoestats](https://aoestats.io/): civilizations win rate statistics (unmaintained as of 2022-12-05, but still up)
+* ~~[AoE2: DE Statistics](http://www.aoeiide.com/)~~ (temporarily broken, used aoe2.net for data)
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
