@@ -7,7 +7,7 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
 
 > **Warning**
-> **Some sites are temporarily broken**: many services below were relying on aoe2.net, which is down for several weeks now; as such, these services are broken too
+> **Some sites are temporarily broken**: many services below were relying on aoe2.net, which was down for several months and has a slightly changed API now; as such, these services are still broken
 
 # Contents
 - [Websites](#websites)
@@ -37,13 +37,13 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Profiles
 
+* [AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
 * [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
 * [AoE II Companion](https://aoe2companion.com/leaderboard): track your games
 * [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
 * [AoeStats](https://aoestats.net/): player profiles and ELOs
 * [AoE Nexus](https://dev.aoenexus.com/): player profiles and ELOs
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
-* ~~[AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs~~ (temporarily offline)
 
 ## Documentation
 
@@ -61,8 +61,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
 * [AoE2 Random Civ Draft](https://aoe2-random-civ-draft.app/): pick a random civ in a predefined pool, with user-defined criterias
-* ~~[AoE2 Random Generator](https://www.aoe2randomciv.com/): pick a random civ in a predefined pool~~ (broken as of 2022-10-01, to be checked again)
-
+  
 ## Tools
 
 * [aoe2recs](https://aoe2recs.com/): recorded games
@@ -79,8 +78,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
-* ~~[aoe2.club](https://aoe2.club/): leaderboard, including by country~~ (broken as of 2022-10-01, might have been relying on aoe2.net, to be checked again)
-* ~~[Professional Age of Empires 2 Calendar](https://aoe2calendar.com/): calendar of pro tournaments~~ (broken as of 2022-10-01, to be checked again)
 
 ## Statistics
 
@@ -143,7 +140,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
-* [AoE II Companion](https://aoe2companion.com/): track your games from aoe2.net on Android and iOS
+* [AoE II Companion](https://aoe2companion.com/): track your games on Android and iOS
 * [AoE Millionaire Quiz](https://play.google.com/store/apps/details?id=com.milquiz.age): strenghten your game knowledge and compete with other players across the world on Android
 * [AOE 2 Build Orders](https://play.google.com/store/apps/details?id=com.mml.debo): practise build orders with stats to improve your early game and rank up quickly on Android
 
