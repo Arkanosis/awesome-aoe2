@@ -30,6 +30,8 @@ As an alternative / complement to this list, you might want to have a look at th
   - [Theory](#theory)
   - [Casting](#casting)
   - [Humor](#humor)
+  - [Interviews](#interviews)
+  - [Music](#music)
 - [Twitch channels](#twitch-channels)
 - [Similar games](#similar-games)
 
@@ -179,6 +181,10 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Interviews
 * [Kings & Plebeians](https://www.youtube.com/@MasmorraAoE): players, developers, content creators…
 * [Bored With Nelly](https://www.youtube.com/playlist?list=PLQqHjgiN9XDru9vD9DIghS1MRqEcJk69d): developers, players…
+
+## Music
+* [Gonza Muñoz](https://www.youtube.com/@GonzaloMunozPianista2016/search?query=age%20of%20empires)
+* [Alex Heflin](https://www.youtube.com/watch?v=ilFEmE_9lB0) (feat. insaneintherainmusic)
 
 # Twitch channels
 
