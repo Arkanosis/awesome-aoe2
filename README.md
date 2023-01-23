@@ -45,6 +45,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
 * [AoeStats](https://aoestats.net/): player profiles and ELOs
 * [AoE Nexus](https://dev.aoenexus.com/): player profiles and ELOs
+* [Smurf Database](https://smurf.new-chapter.eu/): possible smurfs for a given player (based on Steam family library sharing)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
 
 ## Documentation
