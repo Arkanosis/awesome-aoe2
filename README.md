@@ -188,6 +188,9 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Gonza Muñoz](https://www.youtube.com/@GonzaloMunozPianista2016/search?query=age%20of%20empires)
 * [Alex Heflin](https://www.youtube.com/watch?v=ilFEmE_9lB0) (feat. insaneintherainmusic)
 
+## History
+* [Armchair Saurus](https://www.youtube.com/@armchairsaurus): historical reality behind AoE2 units, techs…
+
 # Twitch channels
 
 # Similar games
