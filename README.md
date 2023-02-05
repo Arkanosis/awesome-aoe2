@@ -43,11 +43,13 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
 * [AoE II Companion](https://aoe2companion.com/leaderboard): track your games
 * [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
+* [AgeOfEmpires.com](https://www.ageofempires.com/stats/ageiide): player statistics
 * [AoeStats](https://aoestats.net/): player profiles and ELOs
 * [AoE Nexus](https://dev.aoenexus.com/): player profiles and ELOs
+* [AoE2.co.za](https://www.aoe2.co.za/): player statistics
 * [Smurf Database](https://smurf.new-chapter.eu/): possible smurfs for a given player (based on Steam family library sharing)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
-* [AoCRec](https://aocrec.com): An open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game&player profiles, statistics and ELO rating based on uploaded records.
+* [AoCRec](https://aocrec.com): open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game & player profiles, statistics and ELO rating based on uploaded records
 
 ## Documentation
 
@@ -78,7 +80,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
 * [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
-* [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): Selecting a “random” game from the ongoing matches between two given rating values
+* [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 * [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
@@ -158,9 +160,9 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Programming tools
 * [mgz](https://github.com/happyleavesaoc/aoc-mgz): Age of Empires II recorded game parsing and summarization in Python 3
-* [genie-rs](https://github.com/SiegeEngineers/genie-rs): Rust libraries for reading / writing various Age of Empires I/II files
+* [genie-rs](https://github.com/SiegeEngineers/genie-rs): rust libraries for reading / writing various Age of Empires I/II files
 * [genieutils](https://github.com/sandsmark/genieutils): C++ library for reading and writing the file formats used in the Genie engine
-* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): A Python3 library to edit scenario files in Age of Empires II: Definitive Edition
+* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
 
 # YouTube channels
 
