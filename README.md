@@ -107,6 +107,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE Builds](https://www.aoebuilds.com/): build orders and blog
 * [PerfectTime](https://aoe2.arkanosis.net/pt/): perfect uptime calculator
 * [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
+* [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
