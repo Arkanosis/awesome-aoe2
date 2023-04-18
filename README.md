@@ -6,9 +6,6 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 
 As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
 
-> **Warning**
-> **Some sites are temporarily broken**: many services below were relying on aoe2.net, which was down for several months and has a slightly changed API now; as such, these services are still broken
-
 # Contents
 - [Websites](#websites)
   - [Profiles](#profiles)
@@ -83,7 +80,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
-* [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…)
+* [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…) (note : broken as of 2023-04-19)
 
 ## Statistics
 
@@ -97,7 +94,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
 * [AoE Companion](https://aoecompanion.com/stats): civilization statistics
 * [aoestats](https://aoestats.io/): civilizations win rate statistics (unmaintained as of 2022-12-05, but still up)
-* ~~[AoE2: DE Statistics](http://www.aoeiide.com/)~~ (temporarily broken, used aoe2.net for data)
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
@@ -154,9 +150,9 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [AoE2.GG](https://aoe2.gg/overlay): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [AoE II Companion](https://aoe2companion.com/api-nightbot): API for Nightbot, to add `!rank` and `!match` commands to your Twitch chat
-* ~~[AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page~~ (temporarily broken, used aoe2.net for data)
-* ~~[Overlay AoE II - DE](https://github.com/LucasJappert/overlay-aoe-de/blob/main/README.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page~~ (temporarily broken, used aoe2.net for data)
-* ~~[Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text~~ (temporarily broken, used aoe2.net for data)
+* [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
+* [Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text
+* [RTS Overlay](https://github.com/CraftySalamander/RTS_Overlay): display build order and / or current game players' name, MMR, winrate, etc.
 
 # Programming tools
 * [mgz](https://github.com/happyleavesaoc/aoc-mgz): Age of Empires II recorded game parsing and summarization in Python 3
