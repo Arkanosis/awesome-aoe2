@@ -133,7 +133,6 @@ As an alternative / complement to this list, you might want to have a look at th
 # Programs
 
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
-* [AoE Match Data Provider](https://github.com/FIFOFridge/AOEMatchDataProvider): realtime match data tracking overlay providing ELO and more about your current teammates and opponents
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager): manage Age of Empires 2 Definitive Edition replays
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher): downgrade AoE2 to be able to watch recorded games created with previous patches
