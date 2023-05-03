@@ -84,7 +84,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Statistics
 
-* [aoestats](https://aoestats.io/): civilization win rate statistics broken down by elo, map, game length
+* [aoestats](https://aoestats.io/): civilization win rate statistics broken down by elo, map, game length, patch
 * [AOE2 Stats Dashboard](https://www.aoedash.net): play rate, win rate per civ, per map…
 * [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
