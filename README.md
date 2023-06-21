@@ -188,6 +188,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Gonza Muñoz](https://www.youtube.com/@GonzaloMunozPianista2016/search?query=age%20of%20empires)
 * [Alex Heflin](https://www.youtube.com/watch?v=ilFEmE_9lB0) (feat. insaneintherainmusic)
 * [Jon V Audio](https://www.youtube.com/watch?v=sKuAcFYmJ9s): original compositions using only game sounds
+* [4Hardy](https://www.youtube.com/watch?v=q879j3ydfw8&list=PLWq0TTc6_9JjaE6XRZGfATd1H6PsvP_8D): original compositions using only game sounds
 
 ## History
 * [Armchair Saurus](https://www.youtube.com/@armchairsaurus): historical reality behind AoE2 units, techs…
