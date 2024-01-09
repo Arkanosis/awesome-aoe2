@@ -80,7 +80,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
-* [AoE2 - Dashboard+](http://aoe2.fun/): view and filter lobbies bases on multiple criteria (ELO, map…) (note : broken as of 2023-04-19)
 
 ## Statistics
 
