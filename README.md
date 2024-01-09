@@ -41,9 +41,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE II Companion](https://aoe2companion.com/leaderboard): track your games
 * [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
 * [AgeOfEmpires.com](https://www.ageofempires.com/stats/ageiide): player statistics
-* [AoeStats](https://aoestats.net/): player profiles and ELOs
 * [AoE Nexus](https://dev.aoenexus.com/): player profiles and ELOs
-* [AoE2.co.za](https://www.aoe2.co.za/): player statistics
 * [Smurf Database](https://smurf.new-chapter.eu/): possible smurfs for a given player (based on Steam family library sharing)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
 * [AoCRec](https://aocrec.com): open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game & player profiles, statistics and ELO rating based on uploaded records
@@ -63,7 +61,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
-* [AoE2 Random Civ Draft](https://aoe2-random-civ-draft.app/): pick a random civ in a predefined pool, with user-defined criterias
   
 ## Tools
 
@@ -89,7 +86,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
 * [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
 * [Age of Statistics](https://www.ageofstatistics.com/): lots of statistics about online games
-* [agestats.net](https://agestats.net/): civilizations win rate statistics and pairwise heatmap
 * [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
 * [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
 * [AoE Companion](https://aoecompanion.com/stats): civilization statistics
@@ -119,7 +115,6 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Blogs
 
 * [Age of Notes](https://ageofnotes.com/) ([RSS](https://ageofnotes.com/feed/))
-* [AoE2 News](https://aoe2news.substack.com/) ([RSS](https://aoe2news.substack.com/feed))
 
 ## Information
 
@@ -148,7 +143,6 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Streaming tools
 
-* [AoE2.GG](https://aoe2.gg/overlay): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [AoE II Companion](https://aoe2companion.com/api-nightbot): API for Nightbot, to add `!rank` and `!match` commands to your Twitch chat
 * [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
 * [Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text
@@ -181,7 +175,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Interviews
 * [Kings & Plebeians](https://www.youtube.com/@MasmorraAoE): players, developers, content creators…
-* [Bored With Nelly](https://www.youtube.com/playlist?list=PLQqHjgiN9XDru9vD9DIghS1MRqEcJk69d): developers, players…
+* [Bored With Nelly](https://www.youtube.com/@BoredWithNelly/search?query=age%20of%20empires): developers, players…
 
 ## Music
 * [Gonza Muñoz](https://www.youtube.com/@GonzaloMunozPianista2016/search?query=age%20of%20empires)
