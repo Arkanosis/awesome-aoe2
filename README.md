@@ -185,6 +185,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## History
 * [Armchair Saurus](https://www.youtube.com/@armchairsaurus): historical reality behind AoE2 units, techs…
+* [Tiramis](https://www.youtube.com/@Tiramis_): history of the AoE2 community
 
 # Twitch channels
 
