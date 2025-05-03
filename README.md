@@ -14,6 +14,7 @@ As an alternative / complement to this list, you might want to have a look at th
   - [Tools](#tools)
   - [Statistics](#statistics)
   - [Guides](#guides)
+  - [Tournaments](#tournaments)
   - [Wikis](#wikis)
   - [Communities](#communities)
   - [Blogs](#blogs)
@@ -52,6 +53,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
 * [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
+* [AoE II Infographic Gallery](https://aoe2tournaments.com/images): visual representations that help figuring out which upgrade is needed for an unit, and other things
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
 
@@ -75,7 +77,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
-* [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 
 ## Statistics
 
@@ -99,6 +100,12 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
 * [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos): play this Microsoft game on an Apple operating system
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
+
+## Tournaments
+
+* [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
+* [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/))
+* [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
