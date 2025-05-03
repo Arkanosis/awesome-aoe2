@@ -36,12 +36,10 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Profiles
 
-* [AoE2.net](https://aoe2.net/): leaderboard, player profiles and ELOs, recorded games from aoe2recs
 * [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
 * [AoE II Companion](https://aoe2companion.com/leaderboard): track your games
 * [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
 * [AgeOfEmpires.com](https://www.ageofempires.com/stats/ageiide): player statistics
-* [AoE Nexus](https://dev.aoenexus.com/): player profiles and ELOs
 * [Smurf Database](https://smurf.new-chapter.eu/): possible smurfs for a given player (based on Steam family library sharing)
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
 * [AoCRec](https://aocrec.com): open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game & player profiles, statistics and ELO rating based on uploaded records
