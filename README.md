@@ -106,6 +106,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/))
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
+* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
@@ -159,6 +160,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs): rust libraries for reading / writing various Age of Empires I/II files
 * [genieutils](https://github.com/sandsmark/genieutils): C++ library for reading and writing the file formats used in the Genie engine
 * [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/): Age of Empires II recorded game parsing library in Rust, WASM and Python.
 
 # YouTube channels
 
