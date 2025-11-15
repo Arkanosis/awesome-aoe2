@@ -77,7 +77,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
-* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source](https://github.com/conorbronsdon/aoe2-troop-calculator))
+* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator))
 
 ## Statistics
 
@@ -107,7 +107,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/))
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
-* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament
+* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker))
 
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
