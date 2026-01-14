@@ -75,7 +75,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Unit production cheatsheet](https://aoe2.is/AOE%20Unit%20costs.pdf): number of villagers required to sustain constant unit production (in a single PDF page)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
-* [Interactive build orders](https://builds.aoe2-profile.com/): interactive build orders with timing as a webapp which is smartphone-friendly
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
