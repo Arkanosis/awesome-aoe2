@@ -150,8 +150,6 @@ As an alternative / complement to this list, you might want to have a look at th
 # Streaming tools
 
 * [AoE II Companion](https://www.aoe2companion.com/more/api): API for Nightbot, to add `!rank` and `!match` commands to your Twitch chat
-* [AoE2 Rating Overlay](https://github.com/transparencies/aoe2-rating-overlay/blob/main/docs/instructions.md): display current game players' name, MMR, winrate, etc. in an small OBS-friendly HTML page
-* [Age of Empires II DE - In Game Rating Overlay](https://github.com/Dooque/aoe2-de-in-game-rating-overlay): display current players' name and MMR as plain text
 * [RTS Overlay](https://github.com/CraftySalamander/RTS_Overlay): display build order and / or current game players' name, MMR, winrate, etc.
 
 # Programming tools
