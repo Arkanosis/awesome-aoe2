@@ -167,6 +167,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Empirant_AOE](https://www.youtube.com/@empirant_aoe9534): more maths of AoE2
 * [T-West](https://www.youtube.com/@T-West): even more maths and mechanics analysis
 * [Hjörleif](https://www.youtube.com/@Hjoerleif): more game mechanics
+* [TechnoFeudGamingTV](https://www.youtube.com/@TechnoFeudGamingTV): statistics on players, tournaments…
 * [HumzaCrumza](https://www.youtube.com/@HumzaCrumza): non-meta build orders
 * [Poop Lord](https://www.youtube.com/@PoopLord): non-meta build orders
 
@@ -175,15 +176,14 @@ As an alternative / complement to this list, you might want to have a look at th
 * [T90](https://www.youtube.com/@T90Official): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
 
 ## Humor
-* [Bearly Learning](https://www.youtube.com/@bearlylearning1509): Age Of Empires Toons
-* [Parsa Animations](https://www.youtube.com/@Parsaw): Age of Empires Logic…
+* [Parsa Animations](https://www.youtube.com/c/Parsaw): Age of Empires Logic…
 
 ## Interviews
 * [Kings & Plebeians](https://www.youtube.com/@MasmorraAoE): players, developers, content creators…
 * [Bored With Nelly](https://www.youtube.com/@BoredWithNelly/search?query=age%20of%20empires): developers, players…
 
 ## Music
-* [Gonza Muñoz](https://www.youtube.com/@GonzaloMunozPianista2016/search?query=age%20of%20empires)
+* [Gonza Muñoz](https://www.youtube.com/c/GonzaloMunozPianista2016/search?query=age%20of%20empires)
 * [Alex Heflin](https://www.youtube.com/watch?v=ilFEmE_9lB0) (feat. insaneintherainmusic)
 * [Jon V Audio](https://www.youtube.com/watch?v=sKuAcFYmJ9s): original compositions using only game sounds
 * [4Hardy](https://www.youtube.com/watch?v=q879j3ydfw8&list=PLWq0TTc6_9JjaE6XRZGfATd1H6PsvP_8D): original compositions using only game sounds
