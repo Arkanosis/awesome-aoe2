@@ -100,7 +100,11 @@ As an alternative / complement to this list, you might want to have a look at th
 * [PerfectTime](https://aoe2.arkanosis.net/pt/): perfect uptime calculator
 * [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
 * [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos): play this Microsoft game on an Apple operating system
+
+## User Generated Content
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/)
+* [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
 ## Tournaments
 
