@@ -22,6 +22,7 @@ As an alternative / complement to this list, you might want to have a look at th
 - [Programs](#programs)
 - [Mods](#mods)
 - [Smartphone apps](#smartphone-apps)
+- [Games](#games)
 - [Streaming tools](#streaming-tools)
 - [Programming tools](#programming-tools)
 - [YouTube channels](#youtube-channels)
@@ -144,6 +145,10 @@ As an alternative / complement to this list, you might want to have a look at th
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
 * [AoE II Companion](https://aoe2companion.com/): track your games on Android and iOS
+
+# Games
+* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): quizzes on Android
+* [AoE2Grid](https://aoe2grid.robomeow.org/): daily trivia game to test Age of Empires 2 knowledge
 
 # Streaming tools
 
