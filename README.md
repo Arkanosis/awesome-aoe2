@@ -165,7 +165,9 @@ As an alternative / complement to this list, you might want to have a look at th
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs): rust libraries for reading / writing various Age of Empires I/II files
 * [genieutils](https://github.com/sandsmark/genieutils): C++ library for reading and writing the file formats used in the Genie engine
 * [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
-* [aoe2rec](https://github.com/aoe2ct/aoe2rec/): Age of Empires II recorded game parsing library in Rust, WASM and Python.
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/): Age of Empires II recorded game parsing library in Rust, WASM and Python
+* [McMinimap](https://github.com/UnluckyForSome/McMinimap): minimap generator from savegames
+* [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator): minimap generator from savegames
 
 # YouTube channels
 
