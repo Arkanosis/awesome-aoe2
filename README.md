@@ -103,7 +103,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## User Generated Content
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
-* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/)
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide))
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
 ## Tournaments
