@@ -83,6 +83,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
 * [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator)
 * [AOE2Lobby](https://aoe2lobby.com/): list of lobbies updated in real-time, with filtering capabilities
+* [AoE2 Replay Downloader](https://github.com/nsrandom/aoe2-replays-downloader): configurable python script to download game replays directly into your savegame folder
 
 ## Statistics
 
