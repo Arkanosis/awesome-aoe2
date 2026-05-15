@@ -144,6 +144,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher): downgrade AoE2 to be able to watch recorded games created with previous patches
 * [SenseiDE](https://github.com/gregstein/SenseiDE): unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
+* [AoE2 Squire](https://github.com/chris-h-sg/aoe2-squire): zero-install match analyzer showing common mistakes in a post-match report
 
 # Mods
 
