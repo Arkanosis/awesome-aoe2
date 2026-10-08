@@ -58,6 +58,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE II Infographic Gallery](https://aoe2tournaments.com/images): visual representations that help figuring out which upgrade is needed for an unit, and other things
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+* [AoE2 DB](https://aoe2db.com/): civilizations, units, buildings and techs with exact stats, plus a counter matrix derived from game data, battle simulator and build orders
 
 ## Civilization pickers
 
