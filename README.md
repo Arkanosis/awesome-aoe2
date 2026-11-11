@@ -100,6 +100,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
 * [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
 * [AoE Companion](https://aoecompanion.com/stats): civilization statistics
+* [Empire Stats](https://empirestats.online/): civilizations and maps statistics
 
 ## Guides
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
