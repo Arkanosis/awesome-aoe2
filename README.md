@@ -154,6 +154,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [Mod Directory](https://mods.aoe2.se/)
 * [Interactive Build Order Guide](https://mods.aoe2.se/2359)
+* [Anne_HK AOE2DE Mod List](https://sites.google.com/view/aoe-anne-hk/home)
 
 # Smartphone apps
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
