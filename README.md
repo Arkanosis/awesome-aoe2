@@ -57,6 +57,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE2.is](https://aoe2.is/): condensed tech tree comparison between two civs (with live player tracking) and between all civs (with filtering capabilities)
 * [Age of Empires II civ comparator](https://aoe2-civs.mnapoli.fr/): tech tree comparison of between all civs or a two-civs matchup (with optional live tracking of online games)
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
+* [Huginn & Muninn](https://huginn-muninn.tahir59201.workers.dev/): reference for units, technologies, buildings and civilizations
 * [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters))
 * [AoE II Infographic Gallery](https://aoe2tournaments.com/images): visual representations that help figuring out which upgrade is needed for an unit, and other things
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
