@@ -83,6 +83,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [aoe2map](https://aoe2map.net/)
 * [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
+* [aoe2vils](https://aoe2vils.net/): number of villagers required to sustain constant production
 * [Unit Production Calculator](https://grishrl.github.io/): number of villagers required to sustain constant army production
 * [Unit production cheatsheet](https://aoe2.is/AOE%20Unit%20costs.pdf): number of villagers required to sustain constant unit production (in a single PDF page)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
