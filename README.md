@@ -73,9 +73,8 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
-* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI): randomly iterate through a civ pool without drawing the same civ twice
-* [Civ Explorer](https://frcp.net/civexplorer/): list the civilisations that have all selected techs
-* [Fresh Random Civ Picker](https://frcp.net/): pick a random civ that has not yet been picked
+* [Civ Explorer](https://frcp.net/civexplorer/): list the civilisations that have all selected techs ([source code](https://github.com/cnordenb/civexplorer.net))
+* [Fresh Random Civ Picker](https://frcp.net/): randomly iterate through a civ pool without drawing the same civ twice ([source code](https://github.com/cnordenb/frcp.net), [Windows version](https://github.com/cnordenb/frcp-desktop))
   
 ## Tools
 
