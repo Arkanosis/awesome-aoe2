@@ -55,8 +55,8 @@ As an alternative / complement to this list, you might want to have a look at th
 * [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [aoe-twools](https://aoetwools.firebaseapp.com/): tech tree per civ and civs per unit / tech ([source code](https://github.com/Kheyzell/aoe-twools))
-* [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
-* [AoE2.is](https://aoe2.is/): condensed tech tree comparison between two civs (with live player tracking) and between all civs (with filtering capabilities)
+* ~~[AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database~~ (broken as of 2026-11-21, to be checked again)
+* ~~[AoE2.is](https://aoe2.is/): condensed tech tree comparison between two civs (with live player tracking) and between all civs (with filtering capabilities)~~ (broken as of 2026-11-21, to be checked again)
 * [Age of Empires II civ comparator](https://aoe2-civs.mnapoli.fr/): tech tree comparison of between all civs or a two-civs matchup (with optional live tracking of online games)
 * [AOE2 DE Unit Counter Guide](https://aoe2.fatcat.ninja/): unit counters and civ matchups
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
@@ -85,23 +85,23 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
 * [aoe2vils](https://aoe2vils.net/): number of villagers required to sustain constant production
 * [Unit Production Calculator](https://grishrl.github.io/): number of villagers required to sustain constant army production
-* [Unit production cheatsheet](https://aoe2.is/AOE%20Unit%20costs.pdf): number of villagers required to sustain constant unit production (in a single PDF page)
+* ~~[Unit production cheatsheet](https://aoe2.is/AOE%20Unit%20costs.pdf): number of villagers required to sustain constant unit production (in a single PDF page)~~ (broken as of 2026-11-21, to be checked again)
 * [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
 * [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
-* [AoE2 Analyzer](https://aoe2.up.railway.app/): battle simulation, team analysis, civilazations strengths…
+* ~~[AoE2 Analyzer](https://aoe2.up.railway.app/): battle simulation, team analysis, civilazations strengths…~~ (broken as of 2026-11-21, to be checked again)
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
-* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator)
+* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator))
 * [AOE2Lobby](https://aoe2lobby.com/): list of lobbies updated in real-time, with filtering capabilities
 * [AoE2 Replay Viewer](https://liouh.com/aoe2/): upload a replay for minimap playback, key stats, and build timelines
 
 ## Statistics
 
-* [aoestats](https://aoestats.io/): civilization win rate statistics broken down by elo, map, game length, patch
-* [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
+* ~~[aoestats.io](https://aoestats.io/): civilization win rate statistics broken down by elo, map, game length, patch~~ (broken as of 2026-11-21, to be checked again)
+* ~~[AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…~~ (broken as of 2026-11-21, to be checked again)
 * [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
-* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
+* ~~[Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))~~ (broken as of 2026-11-21, to be checked again)
 * [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
 * [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
 * [AoE Companion](https://aoecompanion.com/stats): civilization statistics
